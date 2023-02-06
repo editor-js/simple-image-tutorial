@@ -1,11 +1,11 @@
 # Simple Image tutorial project
 Final result of guide series learning [how to create own Block Tool](https://editorjs.io/creating-a-block-tool) for Editor.js
 
-Simple Image — paste image URL and get the image Block rendered. 
-Also supports pasting files and substitutions of `<img>` tags on pasting. 
-Does not support uploading images from the device. 
+Simple Image — paste image URL and get the image Block rendered.
+Also supports pasting files and substitutions of `<img>` tags on pasting.
+Does not support uploading images from the device.
 
-![](https://capella.pics/2cd4f84f-cb1c-4a15-b281-25af67a9f4e9.jpg)
+![](assets/2cd4f84f-cb1c-4a15-b281-25af67a9f4e9.jpg)
 
 ## Chapters
 
@@ -30,7 +30,7 @@ The tutorial code and functionality are simplified for better understanding of b
 
 This Tool supports following configuration properties:
 
-| name | description |   
+| name | description |
 | -- | -- |
 | `placeholder` | Custom placeholder for «Paste URL» field |
 
